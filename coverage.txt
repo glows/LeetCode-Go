@@ -1,7 +1,1 @@
 
-mode: atomic
-github.com/glow/LeetCode-Go/leetcode/0001.Two-Sum/Two Sum.go:3.43,5.25 2 6
-github.com/glow/LeetCode-Go/leetcode/0001.Two-Sum/Two Sum.go:11.2,11.16 1 1
-github.com/glow/LeetCode-Go/leetcode/0001.Two-Sum/Two Sum.go:5.25,6.31 1 17
-github.com/glow/LeetCode-Go/leetcode/0001.Two-Sum/Two Sum.go:9.3,9.11 1 12
-github.com/glow/LeetCode-Go/leetcode/0001.Two-Sum/Two Sum.go:6.31,8.4 1 5
